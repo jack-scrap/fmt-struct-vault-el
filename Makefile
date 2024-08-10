@@ -1,6 +1,6 @@
 CC=gcc
 
-EXEC=a.out
+EXEC=vault_item
 
 BUILDDIR=build
 
